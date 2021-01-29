@@ -30,10 +30,13 @@ npm run tunnel
 ## Credits
 ```
 thanks to
-Built by [@fbaiodias](https://github.com/fbaiodias)
-modified for mysql
-Built by [@agung.widhitamojo](https://github.com/agungwa)
 ```
+Built by [@fbaiodias](https://github.com/fbaiodias)
+```
+modified for mysql
+```
+Built by [@agung.widhitamojo](https://github.com/agungwa)
+
 #### Contributors
 
 [@evaame](https://github.com/evaame) - documentation
