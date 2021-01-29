@@ -28,10 +28,12 @@ npm run tunnel
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Credits
+```
 thanks to
 Built by [@fbaiodias](https://github.com/fbaiodias)
 modified for mysql
 Built by [@agung.widhitamojo](https://github.com/agungwa)
+```
 #### Contributors
 
 [@evaame](https://github.com/evaame) - documentation
